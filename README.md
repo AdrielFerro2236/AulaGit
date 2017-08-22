@@ -3,7 +3,7 @@ aula de utilização de Git
 
 #Comandos Básicos
 
-git clone: Clonar arquivo
+git clone: Clonar projeto remoto
 
 git status: Serve para ver o estado atual do seu repositório verificando se os arquivos fazem parte do repositório...
 
